@@ -1,0 +1,4 @@
+Roga=50
+Hvost=50
+Nos kabana=300
+hobot afrikanskogo slona=10
